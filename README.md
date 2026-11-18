@@ -1,70 +1,77 @@
-<!-- ═══════════════════════════════════════════════════════════
-     NEBULA — PERSONAL DEVELOPER PROFILE  ·  ENHANCED EDITION
-     ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     N E B U L A  ·  P R A V E E N K U M A R
+     Aesthetic Developer Profile  ·  v2
+     ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ░░ HERO BANNER ░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05060F,25:1A1236,55:2A1D5E,80:1A1236,100:05060F&height=280&section=header&text=PRAVEENKUMAR&fontSize=62&fontColor=F5F2FF&fontAlignY=40&desc=CREATIVE%20DEVELOPER%20%20%E2%9C%A6%20%20TECH%20EXPLORER&descSize=14&descColor=B8B5D8&descAlignY=60&animation=fadeIn&fontAlign=50&descAlign=50"/>
-
-<!-- ░░ TYPING LINE ░░ -->
-<a href="https://github.com/Praveenkumarpkmv">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=B9A8FF&center=true&vCenter=true&width=680&lines=Welcome+to+my+digital+space+%E2%9C%A6;Crafting+ideas+into+experiences.;Exploring+the+future+of+technology.;Learning.+Building.+Evolving." alt="Typing SVG"/>
-</a>
+<!-- ░░░░░  HERO  ░░░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0014,20:1A0033,40:3D1A6E,60:6E2FA8,80:3D1A6E,100:0B0014&height=320&section=header&text=PRAVEENKUMAR&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=%E2%9C%A6%20%20CREATIVE%20DEVELOPER%20%20%E2%9C%A6%20%20TECH%20EXPLORER%20%20%E2%9C%A6&descSize=16&descColor=D8C8FF&descAlignY=58&animation=twinkling&stroke=E0D0FF&strokeWidth=1"/>
 
 <br/>
 
-<!-- ░░ IDENTITY CHIPS ░░ -->
-<img src="https://img.shields.io/badge/%F0%9F%93%8D_BASED_IN-INDIA-0D1020?style=flat-square&labelColor=1A1236&color=2A1D5E"/>
-<img src="https://img.shields.io/badge/%F0%9F%8E%AF_FOCUS-WEB_DEVELOPMENT-0D1020?style=flat-square&labelColor=1A1236&color=2A1D5E"/>
-<img src="https://img.shields.io/badge/%E2%9A%A1_STATUS-BUILDING-0D1020?style=flat-square&labelColor=1A1236&color=2A1D5E"/>
-<img src="https://komarev.com/ghpvc/?username=Praveenkumarpkmv&style=flat-square&color=7665CE&label=VISITORS"/>
+<!-- ░░░░░  TYPING  ░░░░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=C8A8FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+space+%E2%9C%A6;Crafting+ideas+into+experiences.;Exploring+the+future+of+technology.;Learning.+Building.+Evolving."/>
 
 <br/><br/>
 
-<!-- ░░ CTA BUTTONS ░░ -->
+<!-- ░░░░░  GLASS CHIPS  ░░░░░ -->
+<img src="https://img.shields.io/badge/%F0%9F%93%8D_INDIA-1A0033?style=for-the-badge&labelColor=3D1A6E&color=6E2FA8"/>
+<img src="https://img.shields.io/badge/%F0%9F%8E%AF_WEB_DEV-1A0033?style=for-the-badge&labelColor=3D1A6E&color=6E2FA8"/>
+<img src="https://img.shields.io/badge/%E2%9A%A1_BUILDING-1A0033?style=for-the-badge&labelColor=3D1A6E&color=6E2FA8"/>
+<img src="https://komarev.com/ghpvc/?username=Praveenkumarpkmv&style=for-the-badge&color=6E2FA8&label=%F0%9F%91%81%EF%B8%8F+VISITORS"/>
+
+<br/><br/>
+
 <a href="https://github.com/Praveenkumarpkmv?tab=repositories">
-<img src="https://img.shields.io/badge/%E2%9C%A6_EXPLORE_PROJECTS-7665CE?style=for-the-badge&labelColor=1A1236"/>
+<img src="https://img.shields.io/badge/%E2%9C%A6_%20EXPLORE_PROJECTS%20_%E2%9C%A6-6E2FA8?style=for-the-badge&labelColor=0B0014&logoColor=FFFFFF"/>
 </a>
 &nbsp;
 <a href="https://github.com/Praveenkumarpkmv">
-<img src="https://img.shields.io/badge/GITHUB-1A1930?style=for-the-badge&logo=github&logoColor=C5B7FF"/>
+<img src="https://img.shields.io/badge/GITHUB-1A0033?style=for-the-badge&logo=github&logoColor=C8A8FF"/>
 </a>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     01 · BEYOND THE CODE
-     ═══════════════════════════════════════════════════════════ -->
+<!-- ░░░░░  NEON DIVIDER  ░░░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0014,50:6E2FA8,100:0B0014&height=2"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════
+     01  ·  BEYOND THE CODE
+     ═══════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1020,100:1A1236&height=1&width=100%"/>
+
+## <img src="https://img.shields.io/badge/01-%E2%9C%A6_BEYOND_THE_CODE-6E2FA8?style=for-the-badge&labelColor=0B0014"/>
+
 </div>
 
 <table width="100%">
 <tr>
-<td width="65%" valign="middle">
+<td width="60%" valign="middle">
 
-## <img src="https://img.shields.io/badge/01-8B7BDE?style=flat-square&labelColor=1A1236"/> &nbsp;Beyond the Code
+### 👋 &nbsp;Hello, I'm **Praveenkumar.**
 
-### Hello, I'm Praveenkumar. 👋
+I build **digital experiences** where *clean design* meets *solid engineering*.
 
-I build **digital experiences** that blend thoughtful design with functional technology — where clean interfaces meet solid engineering.
+Currently exploring the intersection of **web**, **cloud**, and **modern tooling** — one commit at a time.
 
-Currently exploring the intersection of **web development**, **cloud infrastructure**, and **modern tooling**.
+<br/>
 
 > 💡 *Keep experimenting. Stay curious. Build something meaningful.*
 
 </td>
-<td width="35%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,aws,linux&perline=2&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,aws,linux&perline=2&theme=dark"/>
 
 <br/>
 
-<sub><b>DESIGN MINDS · TECH DRIVEN</b></sub>
+<sub>✦ &nbsp; DESIGN MINDS · TECH DRIVEN &nbsp; ✦</sub>
 
 </td>
 </tr>
@@ -72,13 +79,17 @@ Currently exploring the intersection of **web development**, **cloud infrastruct
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     02 · CURRENTLY EXPLORING
-     ═══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0014,50:3D1A6E,100:0B0014&height=1"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════
+     02  ·  CURRENTLY EXPLORING
+     ═══════════════════════════════════════════ -->
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/02-5F9FE8?style=flat-square&labelColor=1A1236"/> &nbsp;Currently Exploring
+## <img src="https://img.shields.io/badge/02-%E2%9C%A6_CURRENTLY_EXPLORING-5F9FE8?style=for-the-badge&labelColor=0B0014"/>
 
 <sub>WHERE MY CURIOSITY IS POINTING RIGHT NOW</sub>
 
@@ -86,31 +97,31 @@ Currently exploring the intersection of **web development**, **cloud infrastruct
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/01-8B7BDE?style=for-the-badge&labelColor=0D1020"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0033,100:6E2FA8&height=120&section=header&text=FRONTEND&fontSize=22&fontColor=FFFFFF&desc=HTML%20%C2%B7%20CSS%20%C2%B7%20JS%20%C2%B7%20React&descSize=12&descColor=D8C8FF"/>
 
-### 🎨 Frontend
+<br/>
 
-<sub>HTML · CSS · JavaScript · React</sub>
-
-</td>
-<td width="33%" align="center">
-
-<img src="https://img.shields.io/badge/02-5F9FE8?style=for-the-badge&labelColor=0D1020"/>
-
-### ☁️ Cloud
-
-<sub>AWS · Linux · Infrastructure</sub>
+🎨 **UI · UX · Motion**
 
 </td>
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/03-54B9A5?style=for-the-badge&labelColor=0D1020"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001A33,100:2A6EE8&height=120&section=header&text=CLOUD&fontSize=22&fontColor=FFFFFF&desc=AWS%20%C2%B7%20Linux%20%C2%B7%20Infra&descSize=12&descColor=C8D8FF"/>
 
-### 🌐 Networking
+<br/>
 
-<sub>CCNA · Networking · Security</sub>
+☁️ **Scale · Deploy · Automate**
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00331A,100:2AA86E&height=120&section=header&text=NETWORKING&fontSize=22&fontColor=FFFFFF&desc=CCNA%20%C2%B7%20Security&descSize=12&descColor=C8FFE8"/>
+
+<br/>
+
+🌐 **Connect · Secure · Route**
 
 </td>
 </tr>
@@ -120,13 +131,17 @@ Currently exploring the intersection of **web development**, **cloud infrastruct
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     03 · TECHNOLOGY UNIVERSE
-     ═══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0014,50:3D1A6E,100:0B0014&height=1"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════
+     03  ·  TECHNOLOGY UNIVERSE
+     ═══════════════════════════════════════════ -->
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/03-54B9A5?style=flat-square&labelColor=1A1236"/> &nbsp;Technology Universe
+## <img src="https://img.shields.io/badge/03-%E2%9C%A6_TECHNOLOGY_UNIVERSE-54B9A5?style=for-the-badge&labelColor=0B0014"/>
 
 <sub>TOOLS THAT TURN IDEAS INTO REALITY</sub>
 
@@ -136,21 +151,27 @@ Currently exploring the intersection of **web development**, **cloud infrastruct
 <tr>
 <td align="center" width="33%">
 
-**DEVELOPMENT**
+<img src="https://img.shields.io/badge/%F0%9F%92%BB_DEVELOPMENT-6E2FA8?style=for-the-badge&labelColor=0B0014"/>
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark&perline=5"/>
 
 </td>
 <td align="center" width="33%">
 
-**CLOUD & SYSTEMS**
+<img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F_CLOUD_%26_SYSTEMS-2A6EE8?style=for-the-badge&labelColor=0B0014"/>
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=aws,linux,bash&theme=dark&perline=5"/>
 
 </td>
 <td align="center" width="33%">
 
-**WORKFLOW & TOOLS**
+<img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F_WORKFLOW-2AA86E?style=for-the-badge&labelColor=0B0014"/>
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark&perline=5"/>
 
@@ -162,13 +183,17 @@ Currently exploring the intersection of **web development**, **cloud infrastruct
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     04 · SELECTED CREATIONS
-     ═══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0014,50:3D1A6E,100:0B0014&height=1"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════
+     04  ·  SELECTED CREATIONS
+     ═══════════════════════════════════════════ -->
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/04-C2B5FF?style=flat-square&labelColor=1A1236"/> &nbsp;Selected Creations
+## <img src="https://img.shields.io/badge/04-%E2%9C%A6_SELECTED_CREATIONS-C8A8FF?style=for-the-badge&labelColor=0B0014"/>
 
 <sub>A FEW DIGITAL EXPERIENCES FROM MY WORKSPACE</sub>
 
@@ -179,21 +204,21 @@ Currently exploring the intersection of **web development**, **cloud infrastruct
 <td width="50%" valign="top">
 
 <a href="https://github.com/Praveenkumarpkmv/Sushi-Making-Class-Studio">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveenkumarpkmv&repo=Sushi-Making-Class-Studio&theme=transparent&hide_border=true&title_color=C2B5FF&text_color=B8B5D8&icon_color=8E7CEB&border_radius=10"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveenkumarpkmv&repo=Sushi-Making-Class-Studio&theme=transparent&hide_border=true&title_color=C8A8FF&text_color=D8C8FF&icon_color=6E2FA8&border_radius=12"/>
 </a>
 
-**01 — SUSHI STUDIO** 🍣
+### 🍣 &nbsp;01 — SUSHI STUDIO
 
-<sub>A digital experience for interactive culinary learning.</sub>
+<sub>An interactive culinary learning experience.</sub>
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/Praveenkumarpkmv/Frozen-Yogurt-Shop">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveenkumarpkmv&repo=Frozen-Yogurt-Shop&theme=transparent&hide_border=true&title_color=C2B5FF&text_color=B8B5D8&icon_color=8E7CEB&border_radius=10"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveenkumarpkmv&repo=Frozen-Yogurt-Shop&theme=transparent&hide_border=true&title_color=C8A8FF&text_color=D8C8FF&icon_color=6E2FA8&border_radius=12"/>
 </a>
 
-**02 — FROZEN YOGURT** 🍦
+### 🍦 &nbsp;02 — FROZEN YOGURT
 
 <sub>A fresh and modern storefront concept.</sub>
 
@@ -203,12 +228,12 @@ Currently exploring the intersection of **web development**, **cloud infrastruct
 <td width="50%" valign="top">
 
 <a href="https://github.com/Praveenkumarpkmv/Borewell-Drilling-Water-Solutions-">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveenkumarpkmv&repo=Borewell-Drilling-Water-Solutions-&theme=transparent&hide_border=true&title_color=C2B5FF&text_color=B8B5D8&icon_color=8E7CEB&border_radius=10"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveenkumarpkmv&repo=Borewell-Drilling-Water-Solutions-&theme=transparent&hide_border=true&title_color=C8A8FF&text_color=D8C8FF&icon_color=6E2FA8&border_radius=12"/>
 </a>
 
-**03 — BOREWELL SOLUTIONS** 💧
+### 💧 &nbsp;03 — BOREWELL SOLUTIONS
 
-<sub>A professional business website for water solutions.</sub>
+<sub>A professional website for water solutions.</sub>
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -217,16 +242,16 @@ Currently exploring the intersection of **web development**, **cloud infrastruct
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
 
-<br/>
+<br/><br/>
 
-**04 — MORE EXPERIMENTS** ✨
+### ✨ &nbsp;04 — MORE EXPERIMENTS
 
 <sub>Discover more projects and creative explorations.</sub>
 
 <br/>
 
 <a href="https://github.com/Praveenkumarpkmv?tab=repositories">
-<img src="https://img.shields.io/badge/%E2%9C%A6_EXPLORE_ALL_PROJECTS-7665CE?style=for-the-badge&labelColor=1A1236"/>
+<img src="https://img.shields.io/badge/%E2%9C%A6_%20VIEW_ALL%20_%E2%9C%A6-6E2FA8?style=for-the-badge&labelColor=0B0014"/>
 </a>
 
 </td>
@@ -237,58 +262,66 @@ Currently exploring the intersection of **web development**, **cloud infrastruct
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     05 · DEVELOPER ANALYTICS
-     ═══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0014,50:3D1A6E,100:0B0014&height=1"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════
+     05  ·  DEVELOPER ANALYTICS
+     ═══════════════════════════════════════════ -->
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/05-70C9D9?style=flat-square&labelColor=1A1236"/> &nbsp;Developer Analytics
+## <img src="https://img.shields.io/badge/05-%E2%9C%A6_DEVELOPER_ANALYTICS-70C9D9?style=for-the-badge&labelColor=0B0014"/>
 
 <sub>EVERY COMMIT IS PART OF THE JOURNEY</sub>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Praveenkumarpkmv&show_icons=true&hide_border=true&bg_color=0D1020&title_color=B8A9FF&icon_color=7C9DFF&text_color=D6D4E7&ring_color=9985EF&rank_icon=github&border_radius=12"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Praveenkumarpkmv&show_icons=true&hide_border=true&bg_color=0B0014&title_color=C8A8FF&icon_color=6E2FA8&text_color=D8C8FF&ring_color=6E2FA8&rank_icon=github&border_radius=14"/>
 
 <br/><br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkumarpkmv&layout=donut&hide_border=true&bg_color=0D1020&title_color=B8A9FF&text_color=D6D4E7&border_radius=12"/>
-<img width="48%" src="https://streak-stats.demolab.com?user=Praveenkumarpkmv&hide_border=true&background=0D1020&ring=9985EF&fire=70C9D9&currStreakLabel=B8A9FF&sideLabels=D6D4E7&dates=88869C&border_radius=12"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkumarpkmv&layout=donut&hide_border=true&bg_color=0B0014&title_color=C8A8FF&text_color=D8C8FF&border_radius=14"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=Praveenkumarpkmv&hide_border=true&background=0B0014&ring=6E2FA8&fire=70C9D9&currStreakLabel=C8A8FF&sideLabels=D8C8FF&dates=88869C&border_radius=14"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     06 · CONTRIBUTION TIMELINE
-     ═══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0014,50:3D1A6E,100:0B0014&height=1"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════
+     06  ·  CONTRIBUTION TIMELINE
+     ═══════════════════════════════════════════ -->
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/06-9985EF?style=flat-square&labelColor=1A1236"/> &nbsp;The Contribution Journey
+## <img src="https://img.shields.io/badge/06-%E2%9C%A6_CONTRIBUTION_JOURNEY-9985EF?style=for-the-badge&labelColor=0B0014"/>
 
 <sub>SMALL STEPS. CONSISTENT PROGRESS.</sub>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenkumarpkmv&bg_color=0D1020&color=B8A9FF&line=8073CF&point=70C9D9&area=true&area_color=34285B&hide_border=true&custom_title=MY%20DEVELOPMENT%20TIMELINE&radius=12"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenkumarpkmv&bg_color=0B0014&color=C8A8FF&line=6E2FA8&point=70C9D9&area=true&area_color=3D1A6E&hide_border=true&custom_title=MY%20DEVELOPMENT%20TIMELINE&radius=14"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     07 · LET'S CREATE SOMETHING
-     ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════
+     07  ·  LET'S CREATE SOMETHING
+     ═══════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1020,100:1A1236&height=1&width=100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0014,50:6E2FA8,100:0B0014&height=2"/>
 
 <br/>
 
-## <img src="https://img.shields.io/badge/07-B9A8FF?style=flat-square&labelColor=1A1236"/> &nbsp;Let's Create Something
+## <img src="https://img.shields.io/badge/07-%E2%9C%A6_LET'S_CREATE-C8A8FF?style=for-the-badge&labelColor=0B0014"/>
 
 <br/>
 
@@ -299,11 +332,11 @@ Currently exploring the intersection of **web development**, **cloud infrastruct
 <br/>
 
 <a href="https://github.com/Praveenkumarpkmv">
-<img src="https://img.shields.io/badge/GITHUB-1A1930?style=for-the-badge&logo=github&logoColor=C5B7FF"/>
+<img src="https://img.shields.io/badge/GITHUB-1A0033?style=for-the-badge&logo=github&logoColor=C8A8FF"/>
 </a>
 &nbsp;
 <a href="https://github.com/Praveenkumarpkmv?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-7665CE?style=for-the-badge&labelColor=1A1236"/>
+<img src="https://img.shields.io/badge/%E2%9C%A6_%20PROJECTS%20_%E2%9C%A6-6E2FA8?style=for-the-badge&labelColor=0B0014"/>
 </a>
 
 <br/><br/>
@@ -312,6 +345,7 @@ Currently exploring the intersection of **web development**, **cloud infrastruct
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05060F,50:29204C,100:05060F&height=140&section=footer"/>
-
 </div>
+
+<!-- ░░░░░  FOOTER WAVE  ░░░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0014,30:3D1A6E,60:6E2FA8,100:0B0014&height=180&section=footer&text=SEE%20YOU%20IN%20THE%20NEXT%20COMMIT&fontSize=22&fontColor=D8C8FF&fontAlignY=70&animation=twinkling"/>
