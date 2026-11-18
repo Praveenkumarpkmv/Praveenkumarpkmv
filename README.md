@@ -1,149 +1,135 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     PRAVEENKUMAR · GitHub Profile
-     Theme: Clean & Professional · Single blue accent · Works in light + dark mode
-     ═══════════════════════════════════════════════════════════════ -->
+<!--
+  PRAVEENKUMAR · GitHub profile · "ECLIPSE" art direction
+  Palette: midnight #05070D → #0B1120 · solar copper #FF8A4C · bone #EDE6DC
+  All artwork lives in /assets (self-hosted SVG, no external dependency).
+  Only the analytics cards in section 04 use an external service.
+-->
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=180&section=header&text=Praveenkumar&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=Creative%20Developer%20%C2%B7%20Frontend%20%C2%B7%20Cloud%20%C2%B7%20Networking&descSize=18&descColor=BFDBFE&descAlignY=66&animation=fadeIn"/>
-
-<br/>
-
-I build digital experiences where **clean design** meets **solid engineering**.<br/>
-Currently exploring the intersection of web, cloud, and modern tooling — one commit at a time.
-
-<br/>
-
-<a href="https://github.com/Praveenkumarpkmv">
-<img src="https://img.shields.io/badge/GitHub-Praveenkumarpkmv-0F172A?style=flat&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/Location-India-2563EB?style=flat&labelColor=0F172A"/>
-<img src="https://komarev.com/ghpvc/?username=Praveenkumarpkmv&style=flat&color=2563EB&label=Profile+Views&labelColor=0F172A"/>
-
+  <img src="assets/hero.svg" alt="Praveenkumar — Creative Developer. Web, Cloud, Networks." width="100%"/>
 </div>
 
+<p align="center">
+  Web developer from India, building clean interfaces and learning how the systems underneath them run.
+</p>
+
 <br/>
 
-## About
+<img src="assets/section-about.svg" alt="01 — About" width="100%"/>
 
 <table>
 <tr>
-<td width="140"><b>Focus</b></td>
-<td>Frontend development with HTML, CSS, JavaScript, React and Tailwind</td>
-</tr>
-<tr>
-<td><b>Exploring</b></td>
-<td>Cloud &amp; systems (AWS, Linux) · Networking (CCNA) &amp; security</td>
-</tr>
-<tr>
-<td><b>Approach</b></td>
-<td>Responsive, well-structured interfaces with attention to detail</td>
-</tr>
-<tr>
-<td><b>Mindset</b></td>
-<td>Keep experimenting. Stay curious. Build something meaningful.</td>
+<td width="38%" valign="top">
+
+<h3>Clean design,<br/>solid engineering.</h3>
+
+</td>
+<td valign="top">
+
+I'm Praveenkumar. I build websites that feel clean and work well on every screen. Underneath the front end, I'm curious about how things actually run, so I'm learning cloud infrastructure and networking alongside my web work.
+
+<b>Building</b> — responsive websites with HTML, CSS, JavaScript and React.<br/>
+<b>Exploring</b> — AWS, Linux, CCNA and network security.<br/>
+<b>Mindset</b> — keep experimenting, stay curious, build something meaningful.
+
+</td>
 </tr>
 </table>
 
 <br/>
 
-## Tech Stack
+<img src="assets/section-ecosystem.svg" alt="02 — Ecosystem" width="100%"/>
 
-<table>
-<tr>
-<td width="140"><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark"/></td>
-</tr>
-<tr>
-<td><b>Cloud &amp; Systems</b></td>
-<td><img src="https://skillicons.dev/icons?i=aws,linux,bash&theme=dark"/></td>
-</tr>
-<tr>
-<td><b>Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark"/></td>
-</tr>
-</table>
+<img src="assets/ecosystem.svg" alt="Technology ecosystem. Frontend: HTML, CSS, JavaScript, React, Tailwind. Cloud and systems: AWS, Linux, Bash. Workflow: Git, GitHub, VS Code, npm." width="100%"/>
 
 <br/>
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
+<img src="assets/section-work.svg" alt="03 — Selected work" width="100%"/>
 
 <a href="https://github.com/Praveenkumarpkmv/Sushi-Making-Class-Studio">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveenkumarpkmv&repo=Sushi-Making-Class-Studio&theme=transparent&hide_border=true&title_color=3B82F6&text_color=768390&icon_color=3B82F6"/>
+  <img src="assets/project-sushi.svg" alt="Sushi Studio" width="100%"/>
 </a>
 
-<sub><b>Sushi Studio</b> — an interactive culinary learning experience</sub>
+An interactive culinary learning experience. &nbsp;<a href="https://github.com/Praveenkumarpkmv/Sushi-Making-Class-Studio"><b>Repository →</b></a>
 
-</td>
-<td width="50%" valign="top" align="center">
+<!-- Add a real screenshot: save it as assets/screens/sushi.png, then uncomment:
+<img src="assets/screens/sushi.png" alt="Sushi Studio screenshot" width="100%"/>
+-->
+
+<br/>
 
 <a href="https://github.com/Praveenkumarpkmv/Frozen-Yogurt-Shop">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveenkumarpkmv&repo=Frozen-Yogurt-Shop&theme=transparent&hide_border=true&title_color=3B82F6&text_color=768390&icon_color=3B82F6"/>
+  <img src="assets/project-yogurt.svg" alt="Frozen Yogurt" width="100%"/>
 </a>
 
-<sub><b>Frozen Yogurt</b> — a fresh, modern storefront concept</sub>
+<p align="right">
+A fresh, modern storefront concept. &nbsp;<a href="https://github.com/Praveenkumarpkmv/Frozen-Yogurt-Shop"><b>Repository →</b></a>
+</p>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
+<!-- Screenshot: assets/screens/yogurt.png
+<img src="assets/screens/yogurt.png" alt="Frozen Yogurt screenshot" width="100%"/>
+-->
+
+<br/>
 
 <a href="https://github.com/Praveenkumarpkmv/Borewell-Drilling-Water-Solutions-">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveenkumarpkmv&repo=Borewell-Drilling-Water-Solutions-&theme=transparent&hide_border=true&title_color=3B82F6&text_color=768390&icon_color=3B82F6"/>
+  <img src="assets/project-borewell.svg" alt="Borewell Solutions" width="100%"/>
 </a>
 
-<sub><b>Borewell Solutions</b> — a professional website for water solutions</sub>
+A professional website for water solutions. &nbsp;<a href="https://github.com/Praveenkumarpkmv/Borewell-Drilling-Water-Solutions-"><b>Repository →</b></a>
 
-</td>
-<td width="50%" valign="middle" align="center">
+<!-- Screenshot: assets/screens/borewell.png
+<img src="assets/screens/borewell.png" alt="Borewell Solutions screenshot" width="100%"/>
+-->
 
-More projects and experiments<br/>live in my repositories.
-
-<br/><br/>
-
-<a href="https://github.com/Praveenkumarpkmv?tab=repositories"><b>View all repositories →</b></a>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Praveenkumarpkmv?tab=repositories">More experiments live in my repositories →</a>
+</p>
 
 <br/>
 
-## GitHub Stats
+<img src="assets/section-analytics.svg" alt="04 — Analytics" width="100%"/>
 
-<div align="center">
+<p align="center">
+  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Praveenkumarpkmv&show_icons=true&hide_border=false&bg_color=080C16&title_color=FF9A5C&text_color=C9C2B6&icon_color=FF8A4C&ring_color=FF8A4C&border_color=1B2233&border_radius=14&rank_icon=github"/>
+  <img width="49%" alt="Contribution streak" src="https://streak-stats.demolab.com?user=Praveenkumarpkmv&background=080C16&ring=FF8A4C&fire=FF8A4C&currStreakNum=EDE6DC&sideNums=EDE6DC&currStreakLabel=FFB27A&sideLabels=9AA3B5&dates=7C8597&stroke=1B2233&border=1B2233&border_radius=14"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Praveenkumarpkmv&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=768390&icon_color=3B82F6&ring_color=3B82F6&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkumarpkmv&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=768390"/>
+<p align="center">
+  <img width="99%" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkumarpkmv&layout=compact&card_width=830&langs_count=8&hide_border=false&bg_color=080C16&title_color=FF9A5C&text_color=C9C2B6&border_color=1B2233&border_radius=14"/>
+</p>
 
-<br/><br/>
+<p align="center">
+  <img width="99%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenkumarpkmv&bg_color=080C16&color=FF9A5C&line=FF8A4C&point=EDE6DC&area=true&area_color=FF8A4C&hide_border=true&radius=14&custom_title=Contribution%20Activity"/>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Praveenkumarpkmv&bg_color=0D1117&color=58A6FF&line=3B82F6&point=FFFFFF&area=true&area_color=1E3A8A&hide_border=true&custom_title=Contribution%20Activity&radius=10">
-  <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenkumarpkmv&bg_color=FFFFFF&color=2563EB&line=2563EB&point=0F172A&area=true&area_color=93C5FD&hide_border=true&custom_title=Contribution%20Activity&radius=10">
-</picture>
-
-</div>
-
-<br/>
-
-## Let's Connect
-
-I'm always learning, experimenting, and happy to connect with people who love building things.
-
-<a href="https://github.com/Praveenkumarpkmv">
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://github.com/Praveenkumarpkmv?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-2563EB?style=for-the-badge&labelColor=2563EB"/>
-</a>
-
-<!-- Add your LinkedIn / email badge here when you're ready -->
+<!--
+  FALLBACK if the cards above ever stop loading (the free public instance can rate-limit):
+  1) Deploy your own copy of github-readme-stats on Vercel and replace
+     "github-readme-stats.vercel.app" with your own domain in the URLs above, or
+  2) Swap the block above for these static badges, which use a different service:
+  <p align="center">
+    <img src="https://img.shields.io/github/followers/Praveenkumarpkmv?style=flat-square&labelColor=080C16&color=FF8A4C"/>
+    <img src="https://img.shields.io/github/stars/Praveenkumarpkmv?style=flat-square&labelColor=080C16&color=FF8A4C"/>
+    <img src="https://img.shields.io/github/languages/count/Praveenkumarpkmv?style=flat-square&labelColor=080C16&color=FF8A4C"/>
+  </p>
+-->
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=60&section=footer"/>
+<img src="assets/section-connect.svg" alt="05 — Connect" width="100%"/>
+
+<p align="center">
+  <a href="https://github.com/Praveenkumarpkmv"><b>GitHub</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/Praveenkumarpkmv?tab=repositories"><b>Repositories</b></a>
+</p>
+
+<!-- Add more links here when you're ready, in the same plain style:
+  &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://www.linkedin.com/in/YOUR-HANDLE"><b>LinkedIn</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp; <a href="mailto:YOU@EXAMPLE.COM"><b>Email</b></a>
+-->
+
+<p align="center"><i>Keep experimenting. Stay curious. Build something meaningful.</i></p>
+
+<img src="assets/footer.svg" alt="Praveenkumarpkmv" width="100%"/>
