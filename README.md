@@ -1,113 +1,91 @@
 <!-- ═══════════════════════════════════════════════════════════════
      PRAVEENKUMAR · GitHub Profile
-     Theme: Terminal  ·  Neon green #00FF9C  ·  Cyan #00E5FF  ·  Dark #0D1117
+     Theme: Clean & Professional · Single blue accent · Works in light + dark mode
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- HERO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F1C,50:0B4F4A,100:00B8A0&height=240&section=header&text=Praveenkumar&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=creative%20developer%20%7C%20tech%20explorer&descSize=18&descColor=9DFFD8&descAlignY=58&animation=fadeIn"/>
-
-<!-- TYPING TERMINAL -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=640&height=45&lines=%3E+hello%2C+world.+I'm+Praveenkumar;%3E+building+clean%2C+responsive+web+experiences;%3E+HTML+%C2%B7+CSS+%C2%B7+JS+%C2%B7+React;%3E+exploring+AWS%2C+Linux+%26+networking;%3E+keep+experimenting.+stay+curious."/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=180&section=header&text=Praveenkumar&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=Creative%20Developer%20%C2%B7%20Frontend%20%C2%B7%20Cloud%20%C2%B7%20Networking&descSize=18&descColor=BFDBFE&descAlignY=66&animation=fadeIn"/>
 
 <br/>
 
-<!-- BADGES -->
-<img src="https://img.shields.io/badge/location-India-00FF9C?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/focus-web%20development-00E5FF?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/status-building-00FF9C?style=flat-square&labelColor=0D1117"/>
-<img src="https://komarev.com/ghpvc/?username=Praveenkumarpkmv&style=flat-square&color=00E5FF&label=PROFILE+VIEWS&labelColor=0D1117"/>
+I build digital experiences where **clean design** meets **solid engineering**.<br/>
+Currently exploring the intersection of web, cloud, and modern tooling — one commit at a time.
+
+<br/>
+
+<a href="https://github.com/Praveenkumarpkmv">
+<img src="https://img.shields.io/badge/GitHub-Praveenkumarpkmv-0F172A?style=flat&logo=github&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/Location-India-2563EB?style=flat&labelColor=0F172A"/>
+<img src="https://komarev.com/ghpvc/?username=Praveenkumarpkmv&style=flat&color=2563EB&label=Profile+Views&labelColor=0F172A"/>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF9C,100:0D1117&height=1"/>
-
-<!-- ═══════════════ ABOUT ═══════════════ -->
-
-<h2 align="center">&gt;_ about.js</h2>
-
-```js
-const praveenkumar = {
-  role:      "Creative Developer · Tech Explorer",
-  location:  "India",
-  building:  "clean, responsive web experiences",
-  stack:     ["HTML", "CSS", "JavaScript", "React", "Tailwind"],
-  exploring: ["AWS", "Linux", "CCNA", "Network Security"],
-  mindset:   "Keep experimenting. Stay curious. Build something meaningful.",
-};
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00E5FF,100:0D1117&height=1"/>
-
-<!-- ═══════════════ STACK ═══════════════ -->
-
-<h2 align="center">&gt;_ stack</h2>
-
-<div align="center">
+## About
 
 <table>
 <tr>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/FRONTEND-00FF9C?style=flat-square&labelColor=0D1117"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark&perline=5"/>
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/CLOUD_%26_SYSTEMS-00E5FF?style=flat-square&labelColor=0D1117"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=aws,linux,bash&theme=dark&perline=5"/>
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/WORKFLOW-00FF9C?style=flat-square&labelColor=0D1117"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark&perline=5"/>
-
-</td>
+<td width="140"><b>Focus</b></td>
+<td>Frontend development with HTML, CSS, JavaScript, React and Tailwind</td>
+</tr>
+<tr>
+<td><b>Exploring</b></td>
+<td>Cloud &amp; systems (AWS, Linux) · Networking (CCNA) &amp; security</td>
+</tr>
+<tr>
+<td><b>Approach</b></td>
+<td>Responsive, well-structured interfaces with attention to detail</td>
+</tr>
+<tr>
+<td><b>Mindset</b></td>
+<td>Keep experimenting. Stay curious. Build something meaningful.</td>
 </tr>
 </table>
 
-</div>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF9C,100:0D1117&height=1"/>
+## Tech Stack
 
-<!-- ═══════════════ PROJECTS ═══════════════ -->
+<table>
+<tr>
+<td width="140"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark"/></td>
+</tr>
+<tr>
+<td><b>Cloud &amp; Systems</b></td>
+<td><img src="https://skillicons.dev/icons?i=aws,linux,bash&theme=dark"/></td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark"/></td>
+</tr>
+</table>
 
-<h2 align="center">&gt;_ ls ./projects</h2>
+<br/>
 
-<div align="center">
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
 
 <a href="https://github.com/Praveenkumarpkmv/Sushi-Making-Class-Studio">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveenkumarpkmv&repo=Sushi-Making-Class-Studio&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&icon_color=00E5FF&border_color=30363D&border_radius=10"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveenkumarpkmv&repo=Sushi-Making-Class-Studio&theme=transparent&hide_border=true&title_color=3B82F6&text_color=768390&icon_color=3B82F6"/>
 </a>
 
-<sub><code>sushi-studio</code> · an interactive culinary learning experience</sub>
+<sub><b>Sushi Studio</b> — an interactive culinary learning experience</sub>
 
 </td>
 <td width="50%" valign="top" align="center">
 
 <a href="https://github.com/Praveenkumarpkmv/Frozen-Yogurt-Shop">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveenkumarpkmv&repo=Frozen-Yogurt-Shop&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&icon_color=00E5FF&border_color=30363D&border_radius=10"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveenkumarpkmv&repo=Frozen-Yogurt-Shop&theme=transparent&hide_border=true&title_color=3B82F6&text_color=768390&icon_color=3B82F6"/>
 </a>
 
-<sub><code>frozen-yogurt</code> · a fresh, modern storefront concept</sub>
+<sub><b>Frozen Yogurt</b> — a fresh, modern storefront concept</sub>
 
 </td>
 </tr>
@@ -115,76 +93,57 @@ const praveenkumar = {
 <td width="50%" valign="top" align="center">
 
 <a href="https://github.com/Praveenkumarpkmv/Borewell-Drilling-Water-Solutions-">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveenkumarpkmv&repo=Borewell-Drilling-Water-Solutions-&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&icon_color=00E5FF&border_color=30363D&border_radius=10"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveenkumarpkmv&repo=Borewell-Drilling-Water-Solutions-&theme=transparent&hide_border=true&title_color=3B82F6&text_color=768390&icon_color=3B82F6"/>
 </a>
 
-<sub><code>borewell-solutions</code> · a professional website for water solutions</sub>
+<sub><b>Borewell Solutions</b> — a professional website for water solutions</sub>
 
 </td>
 <td width="50%" valign="middle" align="center">
 
-<br/>
-
-<code>$ git log --all</code>
+More projects and experiments<br/>live in my repositories.
 
 <br/><br/>
 
-<a href="https://github.com/Praveenkumarpkmv?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-00FF9C?style=for-the-badge&labelColor=0D1117"/>
-</a>
+<a href="https://github.com/Praveenkumarpkmv?tab=repositories"><b>View all repositories →</b></a>
 
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00E5FF,100:0D1117&height=1"/>
-
-<!-- ═══════════════ STATS ═══════════════ -->
-
-<h2 align="center">&gt;_ stats --live</h2>
+## GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Praveenkumarpkmv&show_icons=true&bg_color=0D1117&title_color=00FF9C&icon_color=00E5FF&text_color=C9D1D9&ring_color=00FF9C&border_color=30363D&border_radius=10&rank_icon=github"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkumarpkmv&layout=compact&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&border_color=30363D&border_radius=10"/>
-
-<br/>
-
-<img width="100%" src="https://streak-stats.demolab.com?user=Praveenkumarpkmv&background=0D1117&ring=00FF9C&fire=00E5FF&currStreakLabel=00FF9C&currStreakNum=C9D1D9&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=30363D&border=30363D&border_radius=10"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Praveenkumarpkmv&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=768390&icon_color=3B82F6&ring_color=3B82F6&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkumarpkmv&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=768390"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenkumarpkmv&bg_color=0D1117&color=00FF9C&line=00E5FF&point=FFFFFF&area=true&area_color=00E5FF&hide_border=true&custom_title=contribution%20graph&radius=10"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Praveenkumarpkmv&bg_color=0D1117&color=58A6FF&line=3B82F6&point=FFFFFF&area=true&area_color=1E3A8A&hide_border=true&custom_title=Contribution%20Activity&radius=10">
+  <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenkumarpkmv&bg_color=FFFFFF&color=2563EB&line=2563EB&point=0F172A&area=true&area_color=93C5FD&hide_border=true&custom_title=Contribution%20Activity&radius=10">
+</picture>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════ CONTACT ═══════════════ -->
+## Let's Connect
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF9C,100:0D1117&height=1"/>
-
-<h2>&gt;_ let's build something</h2>
-
-<sub>Always learning, experimenting, and connecting with people who love building things.</sub>
-
-<br/><br/>
+I'm always learning, experimenting, and happy to connect with people who love building things.
 
 <a href="https://github.com/Praveenkumarpkmv">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=0D1117&color=30363D"/>
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://github.com/Praveenkumarpkmv?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-00FF9C?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Projects-2563EB?style=for-the-badge&labelColor=2563EB"/>
 </a>
 
 <!-- Add your LinkedIn / email badge here when you're ready -->
 
-</div>
+<br/>
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F1C,50:0B4F4A,100:00B8A0&height=140&section=footer&text=%24%20keep%20building&fontSize=22&fontColor=FFFFFF&fontAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=60&section=footer"/>
